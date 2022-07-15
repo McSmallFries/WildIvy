@@ -1,0 +1,142 @@
+body    {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    text-align: center;
+    margin:15px;
+    margin-top: 25px;
+    width: 100%;
+    font-family: 'staatliches', sans-serif !important;
+}
+
+#ul-nav {
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    
+    
+}
+
+.center {
+    float: none;
+    vertical-align: top;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+}
+
+.right   {
+    text-align: right;
+}
+
+.inline     {
+    display: inline-block;
+    float:left;
+}
+
+#logo-home  {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 20%;
+    height: 20%;
+}
+
+#ul-nav > li {
+    padding-left: 40px; padding-right: 40px;
+    display: inline-block;
+    float: left;
+    vertical-align: top;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+#ul-nav > li:hover {
+    color: #727272;
+}
+
+.container-lg   {
+    margin: auto;
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+    text-align: center;
+    
+}
+.home-thumb-img {
+    width: 100%;
+}
+
+#body-content   {
+    
+}
+.hide-onclick, .hide-onclick:active, .hide-onclick:hover    {
+    color: rgb(31, 31, 31); 
+    text-decoration: none;
+}
+
+.list-inline-item > a:hover    { /*footer*/
+    color: #727272;
+    text-decoration: none;
+}
+.list-inline-item > a    {
+    color: #1f1f1f;
+}
+
+hr  {
+    margin-bottom: 1em;
+    border: 0;
+    border-top: 2px solid rgb(0, 0, 0);
+}
+h1  {
+    font-size: 2rem;
+    padding: 0;
+    margin-top: 30px;
+}
+.alert    {
+    text-align: left;
+    padding-left: 35px; 
+}
+
+#banner-home    {
+    height: auto;
+    width: auto;
+    padding-top: 10px;
+}
+
+.footer {
+    background-color: #c7c7c7;
+    border-top: 2px solid black;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+.row-footer {
+    margin-top: 2rem;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+}
+.box-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.24);
+}
+
+#portfolio  {
+    color: #d1d1d1;
+    font-family: fantasy;
+    margin:none;
+    padding:none;
+}
+
+.faq    {
+    font-size: 15px;
+}
+
+.caption    {
+    margin-top: 5px;
+    /* text-align: left; */
+}
+
+.subtext   {
+    color: #727272;
+}
